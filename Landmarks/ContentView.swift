@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+//':' is for type defination
 struct ContentView: View {
     var body: some View {
         VStack {
